@@ -19,11 +19,13 @@ I'm currently raising funds to purchase entry-level Bitcoin mining hardware (suc
 
 ### Bitcoin Wallet Address for Donations
 
-- **URI**: bitcoin:bc1qr9jxt2aktq5ey2wkqqq7ww7w6l0dq0gh6vcusz
-- **Bitcoin Address**: bc1qr9jxt2aktq5ey2wkqqq7ww7w6l0dq0gh6vcusz
+- **URI**: bitcoin:bc1qtuz5qv69ttnlsq49jzd9j207g9lph425lnmqmu
+- **Bitcoin Address**: bc1qtuz5qv69ttnlsq49jzd9j207g9lph425lnmqmu
 - **Bitcoin QR**:
 
-![Bitcoin QR](bitcoin-qr.png)
+![Bitcoin QR](https://api.qrserver.com/v1/create-qr-code/?data=bitcoin:bc1qtuz5qv69ttnlsq49jzd9j207g9lph425lnmqmu&size=200x200)
+
+`bc1qtuz5qv69ttnlsq49jzd9j207g9lph425lnmqmu`
 
 ## ❤️ Donor Acknowledgements
 
